@@ -1,0 +1,12 @@
+{
+  "name": "Central Stok Center",
+  "short_name": "Central Stok",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#17243b",
+  "description": "Controle mensal de pedidos Stok Center por loja, SKU, contrato e faturamento.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
